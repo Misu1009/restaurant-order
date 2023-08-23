@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">restaurant</string>
+    <string name="entree_one_name">Cauliflower</string>
+    <string name="entree_one_desc">Whole cauliflower, brined, roasted, and deep fried</string>
+    <string name="entree_one_price">7.00</string>
+</resources>
