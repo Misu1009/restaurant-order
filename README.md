@@ -1,5 +1,5 @@
 # restaurant-order
-This is an implementation navigationa and ViewModel as a ui state storage. 
+This is an implementation navigation and ViewModel as a ui state. 
 Demo of this application
       |||
        V
